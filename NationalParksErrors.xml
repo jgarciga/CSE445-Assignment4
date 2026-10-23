@@ -124,7 +124,6 @@
 
   <NationalPark>
     <Name>Everglades</Name>
-    <Phone>305-242-7700</Phone>
     <Address NearestAirport="Miami International Airport">
       <Number>40001</Number>
       <Street>State Road 9336</Street>
