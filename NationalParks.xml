@@ -27,14 +27,14 @@
   </NationalPark>
 
   <NationalPark Rating="4.8">
-    <Name>Bryce Canyon</Name>
-    <Phone>435-834-5322</Phone>
-    <Address NearestAirport="Cedar City Regional Airport">
-      <Number>1</Number>
-      <Street>South Main Street</Street>
-      <City>Bryce</City>
-      <State>UT</State>
-      <Zip>84764</Zip>
+    <Name>Glacier National Park</Name>
+    <Phone>406-888-7800</Phone>
+    <Address NearestAirport="Glacier Park International Airport">
+      <Number>64</Number>
+      <Street>Grinnell Drive</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
     </Address>
   </NationalPark>
 
