@@ -28,7 +28,7 @@
     <Name>Bryce Canyon</Name>
     <Name>Test Park</Name>
     <Phone>435-834-5322</Phone>
-    <Address>
+    <Address NearestAirport="Cedar City Regional Airport">
       <Number>1</Number>
       <Street>South Main Street</Street>
       <City>Bryce</City>
@@ -53,7 +53,7 @@
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
-    <Address>
+    <Address NearestAirport="Yellowstone Airport">
       <Number>1</Number>
       <Street>Grand Loop Road</Street>
       <City>Yellowstone National Park</City>
@@ -77,7 +77,7 @@
   <NationalPark Rating="4.7">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
-    <Address>
+    <Address NearestAirport="Canyonlands Field Airport">
       <Number>5</Number>
       <Street>South Highway 191</Street>
       <City>Moab</City>
@@ -101,7 +101,7 @@
   <NationalPark Rating="4.8">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
-    <Address>
+    <Address NearestAirport="William R. Fairchild International Airport">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
       <City>Port Angeles</City>
@@ -125,7 +125,7 @@
   <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
-    <Address>
+    <Address NearestAirport="Miami International Airport">
       <Number>40001</Number>
       <Street>State Road 9336</Street>
       <City>Homestead</City>
