@@ -17,7 +17,7 @@
   <NationalPark Rating="4.8">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
-    <Address NearestAirport="St George Regional Airport">
+    <Address>
       <Number>1</Number>
       <Street>Zion Park Boulevard</Street>
       <City>Springdale</City>
@@ -123,7 +123,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
     <Address NearestAirport="Miami International Airport">
